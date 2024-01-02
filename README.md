@@ -1,7 +1,7 @@
 # woohyujeon.github.io
 
 ## Index
-[hello](this is first line of homepage)
+[hello](this_is_first_line_of_homepage)
 ### This is first line of homepage
 These are my publication
 
